@@ -1,4 +1,4 @@
-<img width="1600" height="1200" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
+<img width="800" height="600" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
 
 ## Hi, I’m Sahil Gaji 👋
 
