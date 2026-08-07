@@ -1,6 +1,7 @@
 <img width="400" height="300" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
 
-## Hi, I’m Sahil Gaji 👋
+## Hi, I’m Sahil Gaji 👋 <img width="120" height="120" alt="238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68" src="https://github.com/user-attachments/assets/ea99d15b-7cdf-46c7-8995-e14dd141287b" />
+
 
 **AI-powered automation | Process optimization | Data-driven operations**
 
@@ -87,3 +88,5 @@ Based in Germany • Open to roles in automation, analytics, and digital transfo
 - **Languages:** English (fluent), German (A2), Hindi, Marathi
 
 </details>
+
+<img width="574" height="51" alt="under-construction" src="https://github.com/user-attachments/assets/3bfef065-0e43-4bd8-b88a-52107efb91c8" />
