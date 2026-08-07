@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" height="300" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
+  <img width="200" height="150" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
 	<br>
 	<br>
 </div>
@@ -9,11 +9,9 @@
 
 **AI-powered automation | Process optimization | Data-driven operations**
 
-I build systems that turn messy workflows into reliable, automated pipelines using Python, LLMs, and business analytics.  
-
 I build systems that turn messy workflows into reliable, automated pipelines using Python, LLMs, and business analytics.
 
-> Think of me less as a developer and more as an operations nerd who picked up coding (with a lot of help from Claude) to automate the boring stuff and bridge tech with management.
+> _Think of me less as a developer and more as an operations nerd who picked up coding (with a lot of help from Claude) to automate the boring stuff and bridge tech with management._
 
 Based in Germany • Open to roles in automation, analytics, and digital transformation.
 
