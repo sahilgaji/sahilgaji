@@ -1,6 +1,10 @@
-<img width="400" height="300" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
+<div align="center">
+  <img width="400" height="300" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
+	<br>
+	<br>
+</div>
 
-## Hi, I’m Sahil Gaji 👋 <img width="120" height="120" alt="238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68" src="https://github.com/user-attachments/assets/ea99d15b-7cdf-46c7-8995-e14dd141287b" />
+## Hi, I’m Sahil Gaji 👋 
 
 
 **AI-powered automation | Process optimization | Data-driven operations**
@@ -19,8 +23,6 @@ Based in Germany • Open to roles in automation, analytics, and digital transfo
 **Data & BI:** Power BI, Excel (advanced), Google Sheets  
 **Dev & Ops:** GitHub Actions, Streamlit, Git, basic Docker  
 **Work & PM Tools:** Jira, Confluence, Power Automate, Notion
-
-*(Badges are optional; we can add them later once you’re comfortable.)*
 
 ---
 
@@ -49,7 +51,6 @@ Based in Germany • Open to roles in automation, analytics, and digital transfo
 - Migrated documentation from Excel/Wiki to Confluence/Docupedia
 
 **Impact:** ~15% productivity gain, ~30% faster document retrieval, 150+ users trained  
-🔗 (Optional: add a repo describing your workflow templates or dashboards)
 
 #### 3. Operations & Quality Analytics
 **Manufacturing quality and operations improvements**
@@ -60,7 +61,6 @@ Based in Germany • Open to roles in automation, analytics, and digital transfo
 - Quality checks and audits in FC5 Hamburg (Picnic)
 
 **Stack:** Power BI, Excel VBA, QMS, basic SQL  
-🔗 (Optional: add a repo with sample dashboards or VBA snippets)
 
 ---
 
