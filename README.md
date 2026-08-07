@@ -1,9 +1,7 @@
 <div align="center">
   <img width="200" height="150" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
-	<br>
-	<br>
-</div>
 
+</div>
 ## Hi, I’m Sahil Gaji <img width="30" height="30" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/9dd96a0b-bfb8-488c-8d74-f79295075273" />
 
 
