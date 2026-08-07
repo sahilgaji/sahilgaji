@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-## Hi, I’m Sahil Gaji 👋 <img width="80" height="80" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/9dd96a0b-bfb8-488c-8d74-f79295075273" />
+## Hi, I’m Sahil Gaji 👋 <img width="20" height="20" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/9dd96a0b-bfb8-488c-8d74-f79295075273" />
 
 
 
