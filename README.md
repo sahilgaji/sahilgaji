@@ -10,6 +10,11 @@
 **AI-powered automation | Process optimization | Data-driven operations**
 
 I build systems that turn messy workflows into reliable, automated pipelines using Python, LLMs, and business analytics.  
+
+I build systems that turn messy workflows into reliable, automated pipelines using Python, LLMs, and business analytics.
+
+> Think of me less as a developer and more as an operations nerd who picked up coding (with a lot of help from Claude) to automate the boring stuff and bridge tech with management.
+
 Based in Germany • Open to roles in automation, analytics, and digital transformation.
 
 [🔗 Portfolio](https://sahil-gaji.my.canva.site/) • [💼 LinkedIn](https://www.linkedin.com/in/sahil-gaji/) • [📧 Email](mailto:sahil.gaji@outlook.com)
