@@ -1,94 +1,240 @@
+<!-- =========================================================
+     SAHIL GAJI | GITHUB PROFILE README
+     Design: Clean · Structured · Professional
+     ========================================================= -->
+
 <div align="center">
-  <img width="200" height="150" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" />
+
+<img src="https://github.com/user-attachments/assets/b8c0904e-7318-46a3-bf22-712a40eeae23" width="150" alt="Sahil Gaji profile image" />
+
+# Sahil Gaji
+
+### Digital Transformation · Project Management · Process Excellence · AI & Analytics
+
+**Bridging business needs, technology, and operational improvement.**
+
+<p>
+  <a href="https://www.linkedin.com/in/sahil-gaji/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://sahilgaji.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sahil-gaji.my.canva.site/"><img src="https://img.shields.io/badge/Showcase-View-6D28D9?style=flat-square&logo=canva&logoColor=white" alt="Showcase"/></a>
+  <a href="mailto:sahil.gaji@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
-## Hi, I’m Sahil Gaji <img width="30" height="30" alt="216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85" src="https://github.com/user-attachments/assets/9dd96a0b-bfb8-488c-8d74-f79295075273" />
-
-
-
-**AI-powered automation | Process optimization | Data-driven operations**
-
-I build systems that turn messy workflows into reliable, automated pipelines using Python, LLMs, and business analytics.
-
-> _Think of me less as a developer and more as an operations nerd who picked up coding (with a lot of help from Claude) to automate the boring stuff and bridge tech with management._
-
-Based in Germany • Open to roles in automation, analytics, and digital transformation.
-
-[🔗 Portfolio](https://sahil-gaji.my.canva.site/) • [💼 LinkedIn](https://www.linkedin.com/in/sahil-gaji/) • [📧 Email](mailto:sahil.gaji@outlook.com)
 
 ---
 
-### 🛠 Tech & Tools
+## `01` · About
 
-**Languages & Automation:** Python, SQL (basics), Excel VBA  
-**AI & LLMs:** Claude API, prompt engineering, workflow orchestration  
-**Data & BI:** Power BI, Excel (advanced), Google Sheets  
-**Dev & Ops:** GitHub Actions, Streamlit, Git, basic Docker  
-**Work & PM Tools:** Jira, Confluence, Power Automate, Notion
+Digital transformation and project coordination professional with an **M.Sc. in Digital Transformation Management: Business Analytics** and an engineering background.
 
----
+Interested in turning complex business problems into structured projects, measurable improvements, and practical digital solutions.
 
-### 🚀 Featured Projects
-
-#### 1. AI-Powered Job Search Automation System
-**End-to-end automation for job search & application workflows**
-
-- Scrapes job boards (StepStone, Indeed, Bundesagentur, LinkedIn)  
-- Scores jobs with Claude API (semantic matching, relevance ranking)  
-- Generates ATS-optimized CVs and motivation letters  
-- Routes decisions via configurable personas (APPLY / STRETCH / REJECT)  
-- Tracks applications with Excel + HTML dashboards  
-- Orchestrated with GitHub Actions, Telegram notifications, Gmail API
-
-**Stack:** Python, Claude API, GitHub Actions, Streamlit, SQLite, Google Sheets  
-🔗 Repo: `sahilgaji/job-automation` *(WIP)*
-
-#### 2. Process & PMO Digitalization (Bosch)
-**Jira-based PMO setup and reporting automation**
-
-- Designed Jira workflows for OPLs, roadmaps, and risk tracking  
-- Centralized tasks and reporting for 3 cross-functional projects  
-- Automated ticket management with AI chatbot + Power Automate  
-- Built Power BI dashboard for ticket-resolution KPIs  
-- Migrated documentation from Excel/Wiki to Confluence/Docupedia
-
-**Impact:** ~15% productivity gain, ~30% faster document retrieval, 150+ users trained  
-
-#### 3. Operations & Quality Analytics
-**Manufacturing quality and operations improvements**
-
-- Power BI reporting for real-time quality monitoring  
-- Excel VBA tools for billing, inventory, and forecasting  
-- Process improvements reducing cycle time and defects  
-- Quality checks and audits in FC5 Hamburg (Picnic)
-
-**Stack:** Power BI, Excel VBA, QMS, basic SQL  
+**Focus areas:** PMO & project delivery · Process optimization · Business analysis · AI-enabled automation · Data-driven decision-making
 
 ---
 
-### 📈 GitHub Stats (optional)
+## `02` · Professional Journey
 
-![Sahil’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilgaji&show_icons=true&theme=github_dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgaji&show_icons=true&theme=github_dark)
+<details open>
+<summary><strong>Digitalization & Project Management</strong> · Robert Bosch GmbH</summary>
 
----
-
-### 🌱 I’m currently…
-
-- Learning: advanced Python, LLM workflows, and data engineering patterns  
-- Building: end-to-end automation systems for job search and operations  
-- Open to: roles in automation, business analysis, analytics, and digital transformation
-
----
-
-<details>
-<summary>More about me</summary>
-
-- **Background:** MSc Digital Transformation Management (Business Analytics), Mechanical Engineering  
-- **Experience:** Bosch (PM digitalization), Picnic (quality & operations), manufacturing QA, startup co-founder  
-- **Interests:** AI automation, process optimization, data-driven decision-making  
-- **Languages:** English (fluent), German (A2), Hindi, Marathi
+- **Role:** Project Management & Digitalization Intern
+- **Focus:** PMO support, project governance, Jira roadmaps, risk tracking, and cross-functional coordination
+- **Digital enablement:** Power BI KPI reporting, workflow automation, knowledge management, and tool adoption
+- **Impact:** Supported standardized Jira practices for 150+ managers and team leads; improved information retrieval and workflow efficiency
 
 </details>
 
-<img width="574" height="51" alt="under-construction" src="https://github.com/user-attachments/assets/3bfef065-0e43-4bd8-b88a-52107efb91c8" />
+<details>
+<summary><strong>Renewable Energy & Financial Advisory</strong> · Dornier Suntrace / Lahmeyer International</summary>
+
+- **Role:** Project Development & Finance Advisory Intern
+- **Focus:** Renewable infrastructure, business cases, financial modelling, investment analysis, and project feasibility
+- **Methods:** DCF, NPV, ROI, CAPEX/OPEX, Excel VBA, market research, and proposal development
+- **Impact:** Automated recurring forecasting and tracking activities, saving approximately five person-days per month
+
+</details>
+
+<details>
+<summary><strong>Fulfillment & Operational Quality</strong> · Picnic</summary>
+
+- **Role:** Quality Specialist, FC5
+- **Focus:** Fulfillment operations, quality checks, operational standards, process compliance, and issue identification
+
+</details>
+
+<details>
+<summary><strong>Manufacturing & Quality Engineering</strong> · KEIHIN FIE / Hitachi Astemo</summary>
+
+- **Role:** Quality Assurance Engineer
+- **Focus:** Manufacturing quality, SAP inventory processes, QMS, defect analysis, and continuous improvement
+- **Impact:** Contributed to defect reduction and shorter process cycle times through data-led quality improvements
+
+</details>
+
+<details>
+<summary><strong>Automotive Research & Market Intelligence</strong> · GirnarSoft / ZigWheels</summary>
+
+- **Role:** Junior Market Correspondent
+- **Focus:** Automotive industry research, market intelligence, competitor analysis, and content development
+
+</details>
+
+<details>
+<summary><strong>Entrepreneurship & Product Development</strong> · Club House / Makerspace – Creators' Catalyst</summary>
+
+- **Focus:** Early-stage venture development, product concepts, experimentation, and collaborative problem-solving
+
+</details>
+
+---
+
+## `03` · Projects & Digital Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/sahilgaji/job-automation">AI-Powered Job Search Automation</a>
+
+`AI` `Python` `Workflow Automation`
+
+- Job discovery and eligibility rules
+- Multi-persona role evaluation
+- Tailored application content
+- Confidence scoring and workflow orchestration
+
+</td>
+<td width="50%" valign="top">
+
+### PMO & Digitalization
+
+`Jira` `Power BI` `Process Design`
+
+- Project tracking and governance
+- KPI dashboards and reporting
+- Knowledge management
+- Digital tool adoption
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Financial Analysis & Forecasting
+
+`Excel VBA` `Financial Modelling`
+
+- Business case development
+- Investment and feasibility analysis
+- Forecasting and resource tracking
+- Renewable energy project evaluation
+
+</td>
+<td width="50%" valign="top">
+
+### Quality & Operations Analytics
+
+`Power BI` `SAP` `QMS`
+
+- Quality performance monitoring
+- Defect and trend analysis
+- Operational reporting
+- Continuous improvement
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Personal builds, professional experience, and learning projects are presented as distinct workstreams.</sub>
+</p>
+
+---
+
+## `04` · Toolkit
+
+<table>
+<tr>
+<td width="28%"><strong>Project & Delivery</strong></td>
+<td>Jira · Confluence · Agile practices · PMO coordination · Risk tracking · Stakeholder communication</td>
+</tr>
+<tr>
+<td><strong>Data & Analytics</strong></td>
+<td>Power BI · Excel · VBA · SQL/Python learning · KPI reporting · Business analysis</td>
+</tr>
+<tr>
+<td><strong>Automation & AI</strong></td>
+<td>Python · Claude API · Power Automate · GitHub Actions · Streamlit · Workflow design</td>
+</tr>
+<tr>
+<td><strong>Business & Operations</strong></td>
+<td>Process optimization · Quality management · Financial modelling · Feasibility analysis · Continuous improvement</td>
+</tr>
+<tr>
+<td><strong>Platforms & Data</strong></td>
+<td>GitHub · SQLite · Google Sheets · Gmail integrations · SAP · YAML</td>
+</tr>
+</table>
+
+---
+
+## `05` · Education
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**M.Sc. · Digital Transformation Management: Business Analytics**
+
+SRH Berlin University of Applied Sciences  
+`2022–2024` · GPA: 2.0
+
+*Academic focus: digital transformation, business analytics, and communication in virtual teams.*
+
+</td>
+<td valign="top" width="50%">
+
+**B.Eng. · Mechanical Engineering**
+
+Savitribai Phule Pune University  
+`2015–2019` · GPA: 2.4
+
+*Academic focus: engineering fundamentals, refrigeration and air conditioning, and cold-storage design.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06` · Certifications
+
+- Google Project Management Professional Certificate
+- Google Data Analytics Professional Certificate
+- Business Analysis Foundations · LinkedIn Learning
+- Lean Six Sigma Yellow Belt
+- Introduction to Power BI · DataCamp
+- Introduction to Python · DataCamp
+
+---
+
+## `07` · Beyond the Toolkit
+
+- **Industries:** Digital transformation · Manufacturing · Renewable energy · Retail fulfillment · Automotive
+- **Methods:** Project coordination · Process mapping · Root-cause analysis · KPI-driven improvement
+- **Languages:** English · Hindi · Marathi · German (actively improving)
+
+---
+
+<div align="center">
+
+### Open to meaningful problems and collaborative projects
+
+**Digital transformation · PMO & project coordination · Process excellence · Business analysis · AI-enabled workflows**
+
+<a href="https://www.linkedin.com/in/sahil-gaji/">Connect on LinkedIn</a> ·
+<a href="https://sahilgaji.github.io/">Explore my portfolio</a>
+
+</div>
