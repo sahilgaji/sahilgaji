@@ -153,30 +153,54 @@ Interested in turning complex business problems into structured projects, measur
 
 ---
 
-## `04` · Toolkit
+## `04` · Skills & Toolkit
 
-<table>
-<tr>
-<td width="28%"><strong>Project & Delivery</strong></td>
-<td>Jira · Confluence · Agile practices · PMO coordination · Risk tracking · Stakeholder communication</td>
-</tr>
-<tr>
-<td><strong>Data & Analytics</strong></td>
-<td>Power BI · Excel · VBA · SQL/Python learning · KPI reporting · Business analysis</td>
-</tr>
-<tr>
-<td><strong>Automation & AI</strong></td>
-<td>Python · Claude API · Power Automate · GitHub Actions · Streamlit · Workflow design</td>
-</tr>
-<tr>
-<td><strong>Business & Operations</strong></td>
-<td>Process optimization · Quality management · Financial modelling · Feasibility analysis · Continuous improvement</td>
-</tr>
-<tr>
-<td><strong>Platforms & Data</strong></td>
-<td>GitHub · SQLite · Google Sheets · Gmail integrations · SAP · YAML</td>
-</tr>
-</table>
+### Project Management & Digital Transformation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Project_Coordination-2563EB?style=for-the-badge" alt="Project Coordination" />
+  <img src="https://img.shields.io/badge/PMO_&_Governance-1D4ED8?style=for-the-badge" alt="PMO and Governance" />
+  <img src="https://img.shields.io/badge/Agile_&_Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile and Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+</p>
+
+### Data Analytics & Reporting
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel_&_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel and VBA" />
+  <img src="https://img.shields.io/badge/Business_Analysis-0F766E?style=for-the-badge" alt="Business Analysis" />
+  <img src="https://img.shields.io/badge/KPI_Reporting-0D9488?style=for-the-badge" alt="KPI Reporting" />
+</p>
+
+### AI, Automation & Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Claude_API-6B4FBB?style=for-the-badge" alt="Claude API" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### Process Excellence & Operations
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Process_Optimization-0F766E?style=for-the-badge" alt="Process Optimization" />
+  <img src="https://img.shields.io/badge/Lean_Six_Sigma-15803D?style=for-the-badge" alt="Lean Six Sigma" />
+  <img src="https://img.shields.io/badge/Quality_Management-166534?style=for-the-badge" alt="Quality Management" />
+  <img src="https://img.shields.io/badge/SAP-0FA6D8?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+</p>
+
+### Business & Financial Analysis
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Financial_Modelling-166534?style=for-the-badge" alt="Financial Modelling" />
+  <img src="https://img.shields.io/badge/Investment_Analysis-15803D?style=for-the-badge" alt="Investment Analysis" />
+  <img src="https://img.shields.io/badge/Market_Research-475569?style=for-the-badge" alt="Market Research" />
+  <img src="https://img.shields.io/badge/Forecasting-64748B?style=for-the-badge" alt="Forecasting" />
+</p>
 
 ---
 
